@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @irsyadjamalpratamaputra
-- 👀 I’m interested in Spring Boot, Angular, React, Python, Node.js
-- 🌱 I’m currently learning Data Mining
+- 👀 I’m interested in Spring Boot, Angular, React, Python, Node.js, and GoLang
+- 🌱 I’m currently learning and practicing Data Mining and DevOps
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me contact my email or my phone number
+- 📫 Reach my contact by email or phone number
 
 <!---
 irsyadjamalpratamaputra/irsyadjamalpratamaputra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
